@@ -47,14 +47,14 @@ Due: December 15, 2024
   Final Project submission
 -------------------------------------------------------------------------------------------------------
 Alpha and Beta stage goals
-  
-  Alpha Goals
+
+Alpha Goals
     - 1 Level: 3 rooms developed
     - At least 2 of the additional elements ready for test
       (2 pickups ready - Health & Ammo)
       (Virus Reproduction - spawn the "flood" enemy type)
 
-  Beta Goals
+Beta Goals
     - 1 Level: 5 rooms developed
     - 4 additional elements ready for test
       (Capillaries: Level design includes a crouch space, character crouch functionality)
