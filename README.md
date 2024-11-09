@@ -14,51 +14,51 @@ Chosen Scenario: First Person
   - (Kaylee) Capillaries (Small tunnels that require crawling)
 
 Design Concepts / Art direction mood board
-(TO DO: Alex insert link to a google doc with design ideas/inspiration)
+  - (TO DO: Alex insert link to a google doc with design ideas/inspiration)
 
 Project Timeline (To be edited to include any team meetings in between weekly goal adjustments)
 
 Team meeting every Tuesday for 30 - 45 mins
-  To discuss: Weekly Goals, Tasks to focus on, Task blockers
+  - To discuss: Weekly Goals, Tasks to focus on, Task blockers
 
 Team meeting Saturdays / Sundays for 1hr +
-  Discord: Design, Hangout, and Collaborate
-  Discuss: Project or Task progress, blockers, repo changes/updates
+  - Discord: Design, Hangout, and Collaborate
+  - Discuss: Project or Task progress, blockers, repo changes/updates
 
 Due: November 17, 2024
-  QA and Testing Plan
-    Initial meeting to discuss
-    - Play Test, Demo, Code release
+  - QA and Testing Plan
+      - Initial meeting to discuss
+      - Play Test, Demo, Code release
 
 Due: November 24, 2024
-  Team Reflection and Alpha Release
-  QA Plan Development Process
+  - Team Reflection and Alpha Release
+      - QA Plan Development Process
 
 Due: December 1, 2024
-  Projection Reflection and Beta Release
-  Technical Plan
+  - Projection Reflection and Beta Release
+  - Technical Plan
 
 Due: December 8, 2024
-  Team Reflection and Final Release
-  Team Level Final Release
-  Art Director
+  - Team Reflection and Final Release
+  - Team Level Final Release
+  - Art Director
 
 Due: December 15, 2024
-  Final Project submission
+  - Final Project submission
 
 
 Alpha and Beta stage goals
 
 Alpha Goals
-1 Level: 3 rooms developed
-At least 2 of the additional elements ready for test
-(2 pickups ready - Health & Ammo)
-(Virus Reproduction - spawn the "flood" enemy type)
+  - 1 Level: 3 rooms developed
+  - At least 2 of the additional elements ready for test
+    - (2 pickups ready - Health & Ammo)
+    - (Virus Reproduction - spawn the "flood" enemy type)
 
 Beta Goals
-1 Level: 5 rooms developed
-4 additional elements ready for test
-(Capillaries: Level design includes a crouch space, character crouch functionality)
-(Virus Reproduction: Spawners to spawn the 3 enemy types)
-(Jump pads: 4 on the map, varying functionality of vertical or horizontal)
-(Pick ups: Chosen 9 pickup spawns on the the level)
+  - 1 Level: 5 rooms developed
+  - 4 additional elements ready for test
+    - (Capillaries: Level design includes a crouch space, character crouch functionality)
+    - (Virus Reproduction: Spawners to spawn the 3 enemy types)
+    - (Jump pads: 4 on the map, varying functionality of vertical or horizontal)
+    - (Pick ups: Chosen 9 pickup spawns on the the level)
