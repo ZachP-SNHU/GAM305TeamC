@@ -1,23 +1,33 @@
 Module Two Team C Project Plan
-
+-----------------------------------------------------------------------------------------------------------------
 Team C Leader: Zach P.
-
-Traceability matrix has been shared to team members. Please refer to Zach's email for invitation
 
 Communication method preference: Discord voice and text channels
 
+Traceability matrix has been shared to team members. Please refer to Zach's email for invitation
+
 Chosen Scenario: First Person
+-----------------------------------------------------------------------------------------------------------------
   4 Additional Elements
   - (Alex) Virus Reproduction -- timed splitting / spawning of "living" viruses
   - (Zach) Pick Ups (ammo, armor, etc) 9 total; at least 3 unique items
   - (Stephen) Jump pads to get to other areas (4; Can be a simple vertical leap or a horizontal throw)
   - (Kaylee) Capillaries (Small tunnels that require crawling)
 
-Design Concepts / Art direction mood board
-  - (TO DO: Alex insert link to a google doc with design ideas/inspiration)
+Brainstorm
+-----------------------------------------------------------------------------------------------------------------
+All required specifications for the project are on the traceability doc. Refer to this document.
+
+The team has also started a Discord white board to include art and inspiration for ideas regarding:
+  - Textures
+  - Materials
+  - Audio
+  - Level design
+  - Pick ups
+  - Additional element functionality
 
 Project Timeline (To be edited to include any team meetings in between weekly goal adjustments)
-
+-----------------------------------------------------------------------------------------------------------------
 Team meeting every Tuesday for 30 - 45 mins
   - To discuss: Weekly Goals, Tasks to focus on, Task blockers
 
@@ -46,9 +56,8 @@ Due: December 8, 2024
 Due: December 15, 2024
   - Final Project submission
 
-
 Alpha and Beta stage goals
-
+-----------------------------------------------------------------------------------------------------------------
 Alpha Goals
   - 1 Level: 3 rooms developed
   - At least 2 of the additional elements ready for test
